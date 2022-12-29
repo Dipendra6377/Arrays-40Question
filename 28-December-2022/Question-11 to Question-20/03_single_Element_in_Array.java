@@ -8,3 +8,8 @@ class Solution {
         return result;
     }
 }
+
+
+//1      1   =    0
+//0      0   =    0
+//same number will alway give 0
